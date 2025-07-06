@@ -1,1 +1,3 @@
 # Applications-of-Probabilistic-Theory
+
+The project explores the application of Game Theory and Probability Theory in real-world competitive environments. It delves into strategic decision-making through examples like auction models—including second-price and generalized second-price auctions—and their revenue implications. Additionally, it examines risk management in supply chains, showing how game theory models supplier interactions, while probability handles demand and supply uncertainties. The project emphasizes how these two theories interlink to optimize strategies in uncertain, multi-player decision-making scenarios
